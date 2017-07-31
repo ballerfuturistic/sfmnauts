@@ -14,6 +14,8 @@ Voila!
 
 One full map.
 
+![](https://i.imgur.com/7RL5m2P.png)
+
 ## Assigning Textures
 
 So, it turns out the **Material Editor** shows us what texture we need!
@@ -21,6 +23,4 @@ So, it turns out the **Material Editor** shows us what texture we need!
 Simply **open the Material Editor** and **scroll down until you find "scene materials" **and voila!
 
 You have now found the texture you need.
-
-
 
