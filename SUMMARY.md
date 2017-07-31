@@ -8,6 +8,7 @@
   * [Tools](metro-redux/tools.md)
   * [Texture Conversion](metro-redux/texture-conversion.md)
   * [Importing](metro-redux/importing.md)
+  * [Map Importing](metro-redux/map-importing.md)
 * [Fallout 4](fallout-4/README.md)
   * [Tools](fallout-4/tools.md)
   * [Texture Conversion](fallout-4/texture-conversion.md)
