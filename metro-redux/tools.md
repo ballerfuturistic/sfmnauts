@@ -18,9 +18,11 @@ Download the r92 for LL. It'll work on Redux.
 
 These are only for Max \(versions 9, and 2009-2012\) and Maya \(versions 8.5, 2009-2014\)
 
+In order to install the tools, just place them in their respective plugin folder, ie:** \3ds Max 2012\plugins**
+
 ## Notes
 
-huntingrifle over on Facepunch was kind enough to upload all the Raws and even separate them for those who just want separate things.
+**huntingrifle** over on **Facepunch** was kind enough to upload all the **Raws** and even separate them for those who just want separate things.
 
 All models all textures: [\[1\]](https://www.dropbox.com/s/qo9qhfcc91ubh2z/redux.rar?dl=0), [\[2\]](https://mega.co.nz/#!aoQAGCKC!CSvOZjXlN8oXh_Lv8P8_JkhjUqzb2Kg6s7vkSPRdMy8)
 
