@@ -2,11 +2,11 @@ These are the guides respective to the **Metro Redux** games which include **Met
 
 **Currently covers:**
 
-[Unpacker Tools](/metro-redux/tools.html)
+[Unpacker Tools](/metro-redux/tools.md)
 
-[Texture Conversion Tools](/metro-redux/tools.html)
+[Texture Conversion Tools](/metro-redux/tools.md)
 
-[Importer Tools](/metro-redux/tools.html)
+[Importer Tools](/metro-redux/tools.md)
 
-[Texture Conversion](/metro-redux/texture-conversion.html)
+[Texture Conversion](/metro-redux/texture-conversion.md)
 
