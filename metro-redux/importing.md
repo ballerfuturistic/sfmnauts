@@ -18,5 +18,11 @@ Then simply go to **file -&gt; import** and import the **.model**
 
 ## Assigning Textures
 
+So, it turns out the **Material Editor** shows us what texture we need!
+
+Simply **open the Material Editor** and **scroll down until you find "scene materials" **and voila!
+
+You have now found the texture you need.
+
 
 
