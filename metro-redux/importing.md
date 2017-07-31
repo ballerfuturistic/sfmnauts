@@ -8,6 +8,8 @@ According to **huntingrifle** on **Facepunch**
 
 **Also, a couple of models under the dynamic -- mostly humanoids and anything that seems to have complex rigging crashes on import.**
 
+**For those dynamic models that crash, try importing .mesh instead, it seems to work sometimes.**
+
 ## Importing
 
 Importing is honestly pretty straightforward, after installing the plugin, make sure you restarted 3DSMax.
