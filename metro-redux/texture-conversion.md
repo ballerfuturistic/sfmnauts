@@ -18,7 +18,7 @@ Open your **\_bump**.
 
 **Green channel** holds the Specular.
 
-Run the whole **\_bump** through NJOB, then load the normal map that was generated. .
+Run the whole **\_bump** through [**NJOB**](http://charles.hollemeersch.net/njob/), then load the normal map that was generated. .
 
 Put the **Specular** in the **Alpha of the normal map.**
 
