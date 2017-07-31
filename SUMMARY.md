@@ -1,13 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [General Tools](General Tools/README.md)
-  * [Photoshop](General Tools/photoshop.md)
-  * [NinjaRipper](General Tools/ninjaripper.md)
-* [Metro Redux](Metro Redux/README.md)
-  * [Tools](Metro Redux/tools.md)
-  * [Texture Conversion](Metro Redux/texture-conversion.md)
-* [Fallout 4](Fallout 4/README.md)
-  * [Tools](Fallout 4/tools.md)
-  * [Texture Conversion](Fallout 4/texture-conversion.md)
+* [General Tools](general-tools/README.md)
+  * [Photoshop](general-tools/photoshop.md)
+  * [NinjaRipper](general-tools/ninjaripper.md)
+* [Metro Redux](metro-redux/README.md)
+  * [Tools](metro-redux/tools.md)
+  * [Texture Conversion](metro-redux/texture-conversion.md)
+* [Fallout 4](fallout-4/README.md)
+  * [Tools](fallout-4/tools.md)
+  * [Texture Conversion](fallout-4/texture-conversion.md)
 
