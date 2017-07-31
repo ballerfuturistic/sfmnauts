@@ -8,6 +8,6 @@
   * [Tools](Metro Redux/tools.md)
   * [Texture Conversion](Metro Redux/texture-conversion.md)
 * [Fallout 4](Fallout 4/README.md)
-  * Tools
+  * [Tools](Fallout 4/tools.md)
   * [Texture Conversion](Fallout 4/texture-conversion.md)
 
