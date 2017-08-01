@@ -14,4 +14,14 @@
 * [Fallout 4](fallout-4/README.md)
   * [Tools](fallout-4/tools.md)
   * [Texture Conversion](fallout-4/texture-conversion.md)
+* [World of Warcraft](world-of-warcraft/README.md)
+  * [Type of WoW files](world-of-warcraft/type-of-files.md)
+  * [Client Differences](world-of-warcraft/client-differences.md)
+  * [Porting from Pre-WoD client](world-of-warcraft/pre-wod.md)
+  * [Porting from Post-WoD client](world-of-warcraft/post-wod.md)
+  * [Backporting Post-WoD content to Pre-WoD client](world-of-warcraft/backport.md)
+  
+  
+
+
 
