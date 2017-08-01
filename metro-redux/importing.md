@@ -24,5 +24,5 @@ Simply **open the Material Editor** and **scroll down until you find "scene mate
 
 You have now found the texture you need.
 
-
+Considering reading the [**Texture Conversion**](/metro-redux/texture-conversion.md) guide from here on out.
 
