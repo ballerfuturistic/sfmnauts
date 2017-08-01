@@ -30,6 +30,8 @@ As in, literately, I don't think anyone else would have figured this out -- it's
 
 * [me, i guess.](https://twitter.com/ballerfuturistc)
 
+You shouldn't really ask  me about these things -- I'm just documenting them. along with the people on Github. Questions are better directed to the contributors relative to their game or anyone listed in the credits. In other words, I don't know much about this texture work.
+
 ## Disclaimer
 
 Everything is subject to change based on if the methods change.
