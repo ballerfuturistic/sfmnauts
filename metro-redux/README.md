@@ -10,3 +10,5 @@ These are the guides respective to the **Metro Redux** games which include **Met
 
 [Texture Conversion](/metro-redux/texture-conversion.md)
 
+[Map Importing](/metro-redux/map-importing.md)
+
