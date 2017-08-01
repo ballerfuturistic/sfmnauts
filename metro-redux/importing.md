@@ -32,5 +32,7 @@ You can now press **Shift+T which opens Asset Tracking** in 3DSMax which will op
 
 For Metro, if you use the **texture converter** linked [**in the Tools section**](/metro-redux/tools.md), you can run it in **every single folder with the textures** and then **simply change the output to .dds for each texture listed under the Asset Tracking menu.**
 
+You run it by dragging a file on to it.
+
 Considering reading the [**Texture Conversion**](/metro-redux/texture-conversion.md) guide from here on out.
 
