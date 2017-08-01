@@ -17,7 +17,7 @@ The usage is pretty straightforward. To export a model, go to file -> Export mod
 
 If you end up with a model with no textures, just use the export textures dialog, or export as OBJ. At the time of writing, the unstable release is able to export animations, but doesn't work most of the time, or is just broken. Keyframes are there but no animation.
 
-![3DS Max animation timeline](/img/timeline.png)
+![3DS Max animation timeline](world-of-warcraft/img/timeline.png)
 
 Also female worgen models are just broken, not a problem of the exporter lmfao. Pls go yell at blizzard to fix them. Thank.
 
