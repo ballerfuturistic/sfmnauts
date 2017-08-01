@@ -1,6 +1,6 @@
 ## Credits
 
-This guide was written and contributed by **steak**, you can find him on **[Twitter]**(https://twitter.com/ThunderySteak) and on **[Steam]**(http://steamcommunity.com/id/wtfidonteven/).
+This guide was written and contributed by **steak**, you can find him on [**Twitter**](https://twitter.com/ThunderySteak) and on [**Steam**](http://steamcommunity.com/id/wtfidonteven/).
 
 These are the guides respective to the **World of Warcraft** game. 
 
