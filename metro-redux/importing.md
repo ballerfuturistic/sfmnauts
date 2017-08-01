@@ -28,7 +28,9 @@ That's one method, however there's a **better method.**
 
 **Import your mesh and then save your scene.**
 
-You can now press **Shift+T** in 3DSMax which will open a list of missing textures. If you **right click it**, and hit **set path** you can more easily define the path to your textures. Just set the **path to the folder** in the **path category** and then **filename.dds** in the **file category.**
+You can now press **Shift+T which opens Asset Tracking** in 3DSMax which will open a list of missing textures. If you **right click it**, and hit **set path** you can more easily define the path to your textures. Just set the **path to the folder** in the **path category** and then **filename.dds** in the **file category.**
+
+For Metro, if you use the **texture converter** linked [**in the Tools section**](/metro-redux/tools.md), you can run it in **every single folder with the textures** and then **simply change the output to .dds for each texture listed under the Asset Tracking menu.**
 
 Considering reading the [**Texture Conversion**](/metro-redux/texture-conversion.md) guide from here on out.
 
