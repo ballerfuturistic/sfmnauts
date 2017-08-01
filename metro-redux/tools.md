@@ -10,7 +10,7 @@ In order to unpack content .vfs': [\[1\]](http://forum.xentax.com/download/file.
 
 In order to convert textures to .dds: [\[1\]](http://download1647.mediafire.com/hm9g49u176gg/15mb18jn3za3z1g/4a-engine-tex-tool.zip), \[2\]
 
-Just run the .exe in the respective folders, .ie run unpackRedux.exe in the folder with the .vfs' and run the texture converter in the folder with the texture files to conver them to .dds
+Just run the .exe in the respective folders, .ie run unpackRedux.exe in the folder with the .vfs' and run the texture converter in the folder with the texture files to convert them to .dds
 
 [**Importers**](https://code.google.com/archive/p/metro2033-tools/downloads)
 
