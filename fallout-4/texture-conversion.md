@@ -24,7 +24,7 @@ Images &gt; Adjustments &gt; Exposure
 
 Exposure to 0.4545
 
-Make** 3 specular** layers.
+Make **3 specular** layers.
 
 Make **4 roughness** layers.
 
