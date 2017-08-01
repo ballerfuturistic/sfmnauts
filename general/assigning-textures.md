@@ -9,4 +9,6 @@ You have now found the texture you need.
 
 That's one method, however there's a **better method.**
 
-You can press **Shift+T** in 3DSMax which will open a list of missing textures. If you **right click it**, and hit **set path** you can more easily define the path to your textures. Just set the **path to the folder** in the **path category** and then **filename.dds** in the **file category.**
+**Import your mesh and then save your scene.**
+
+You can now press **Shift+T** in 3DSMax which will open a list of missing textures. If you **right click it**, and hit **set path** you can more easily define the path to your textures. Just set the **path to the folder** in the **path category** and then **filename.dds** in the **file category.**
