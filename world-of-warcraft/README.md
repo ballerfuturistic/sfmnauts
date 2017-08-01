@@ -10,7 +10,7 @@ These guides **DO NOT** talk about how to obtain a specific WoW client build, an
 
 If you want to find a specific build, Google is your friend.
 
-If you have any questions, message me on Discord -> steak#3816 
+If you have any questions, message me on Discord -> **steak#3816**
 
 I'm not responsible if you break something.
 
