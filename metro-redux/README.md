@@ -9,6 +9,7 @@ These are the guides respective to the **Metro Redux** games which include **Met
 > [Importer Tools](/metro-redux/tools.md)
 >
 > [Texture Conversion](/metro-redux/texture-conversion.md)
+> [Model Importing](/metro-redux/importing.md)
 >
 > [Map Importing](/metro-redux/map-importing.md)
 
