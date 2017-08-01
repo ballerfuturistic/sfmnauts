@@ -8,7 +8,7 @@ There are those who take it a step further and contribute time out of their day 
 
 In order to expand our niche with newcomers, and in order provide help and documentation for people interested, or even those already experienced porting content -- I believe information should be easy to acccess. 
 
-Not only does this information being easy to access aid the community -- it also aids content creators, whether it be learning new methods or simply reducing the sheer amount of begging or having to answer the amount of questions over messages because someone is wondering **how something was done.**
+Not only does this information being easy to access aid the community -- it also aids content creators, whether it be learning new methods or simply reducing the sheer amount of begging or having to answer the amount of questions over messages because someone is wondering **how something was done.** Not only that, but it simply helps the **content** by keeping it **consistant.**
 
 Why not simply publish the information somewhere where all may access it?
 
