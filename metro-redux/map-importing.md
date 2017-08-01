@@ -2,6 +2,8 @@
 
 You can import Metro Redux **maps** into 3DSMax, possibly Maya -- but I haven't tried with Maya.
 
+Make sure you have the [**importer tools for your relative software**](/metro-redux/tools.md).
+
 For this, you'll simply have to [**unpack**](/metro-redux/tools.md) the game yourself.
 
 After **unpacking** the game, browse to the folder made by the unpacker, i.e:
