@@ -1,5 +1,5 @@
 
-## Assigning Textures in 3DSMax
+## Assigning Textures in 3DSMax assuming your model tells you what textures are missing.
 
 If the **Material Editor** shows us what texture we need, you can do the following:
 
