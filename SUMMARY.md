@@ -4,6 +4,7 @@
 * [General Tools](general-tools/README.md)
   * [Photoshop](general-tools/photoshop.md)
   * [NinjaRipper](general-tools/ninjaripper.md)
+  * [General](general/README.md)
 * [Metro Redux](metro-redux/README.md)
   * [Tools](metro-redux/tools.md)
   * [Texture Conversion](metro-redux/texture-conversion.md)
