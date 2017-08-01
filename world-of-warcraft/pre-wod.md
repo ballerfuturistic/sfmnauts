@@ -53,14 +53,14 @@ Simplified usage of said tools:
 From [Wowdev Wiki](https://wowdev.wiki/M2#Textures)
 >Textures are defined globally in a list, additionally, a lookup table is given, referenced during rendering, to select textures.
 
-```struct M2Texture
+``struct M2Texture
 
 {
   uint32_t type;          // see below
   uint32_t flags;         // see below
   M2Array<char> filename; // for non-hardcoded textures (type != 0), this still points to a zero-sized string
 } textures[];
-```
+``
 
 And yes, you can totally make WoW titty mods with M2ModRedux.
 
