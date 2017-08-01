@@ -22,7 +22,7 @@ The usage is pretty straightforward. To export a model, go to file -> Export mod
 
 Machinima studio is an application that can export WMOs with doodads, ATDs and M2s without a problem. It's pretty powerful. [You can download it from here](http://www.machinimadev.com/download/). Make sure to also check out the [tutorial section](http://www.machinimadev.com/tutorials/).
 
-![profile select](.../img/profile_select.png)
+![profile select](/img/profile_select.png)
 
 When you launch the application, load the WoW plugin and add your MoP Client. You can safely ignore the warnings about incompatible client, it handles 5.4.8 without any problem with my testing.
 
