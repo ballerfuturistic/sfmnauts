@@ -17,7 +17,7 @@ The usage is pretty straightforward. To export a model, go to file -> Export mod
 
 If you end up with a model with no textures, just use the export textures dialog, or export as OBJ. At the time of writing, the unstable release is able to export animations, but doesn't work most of the time, or is just broken. Keyframes are there but no animation.
 
-![3DS Max animation timeline](world-of-warcraft/img/timeline.png)
+![3DS Max animation timeline](/world-of-warcraft/img/timeline.png)
 
 Also female worgen models are just broken, not a problem of the exporter lmfao. Pls go yell at blizzard to fix them. Thank.
 
@@ -49,7 +49,10 @@ Simplified usage of said tools:
 From [Wowdev Wiki](https://wowdev.wiki/M2#Textures)
 >Textures are defined globally in a list, additionally, a lookup table is given, referenced during rendering, to select textures.
 
-```struct M2Texture
+
+
+```
+struct M2Texture
 
 {
   uint32_t type;          // see below
@@ -57,6 +60,9 @@ From [Wowdev Wiki](https://wowdev.wiki/M2#Textures)
   M2Array<char> filename; // for non-hardcoded textures (type != 0), this still points to a zero-sized string
 } textures[];
 ```
+
+
+
 
 And yes, you can totally make WoW titty mods with M2ModRedux.
 
