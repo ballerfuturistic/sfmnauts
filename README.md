@@ -12,7 +12,9 @@ This is, of course, **going to assume that you have general knowledge of Photosh
 
 There may be times where you might laugh and scoff and say "There's a better way to do this!" **and I openly invite you to PLEASE contribute.** The reality is these are methods that are being added that I have been taught to the best of my ability or with the limited time I was able to spend on them with whoever taught them **in order to come up with at least average results.**
 
-If you'd like to contribute, either [DM ](https://twitter.com/ballerfuturistc)me or message me on Discord &gt; **Mars\#1305**
+If you'd like to **contribute** just check out the [Github Page](https://github.com/ballerfuturistic/sfmnauts) and make a commit with what you'd like to change or your own guide. I'll review it and then merge it, and it'll go live on the site.
+
+If there's any issues, either [DM ](https://twitter.com/ballerfuturistc)me or message me on Discord &gt; **Mars\#1305**
 
 **yes, you need to include the capital M, i think.**
 
