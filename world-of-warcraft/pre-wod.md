@@ -53,19 +53,20 @@ Simplified usage of said tools:
 From [Wowdev Wiki](https://wowdev.wiki/M2#Textures)
 >Textures are defined globally in a list, additionally, a lookup table is given, referenced during rendering, to select textures.
 
-``struct M2Texture
+```struct M2Texture
 
 {
   uint32_t type;          // see below
   uint32_t flags;         // see below
   M2Array<char> filename; // for non-hardcoded textures (type != 0), this still points to a zero-sized string
 } textures[];
-``
+```
 
 And yes, you can totally make WoW titty mods with M2ModRedux.
 
 ### How to use Taylor Mouse's 3DS Max scripts
 Here's a YT video by the man himself.
+
 [![Import World of Warcraft ADT, WMO, M2 files into 3D Studio Max](http://img.youtube.com/vi/mQTJMy0ebjU/0.jpg)](https://youtu.be/mQTJMy0ebjU)
 
 If you encouter code errors even with XnConvert location set, convert all of the textures to PNG with BLP2PNG. This should solve this.
