@@ -2,7 +2,7 @@
 
 These tools were a mess to find, honestly, credits are hard to be given due to the amount of times it had to be reuploaded.
 
-I THINK **abramcummer **and **metro2033-tools** on [Google Code archive](https://code.google.com/archive/p/metro2033-tools/).
+I THINK **abramcummer** and **metro2033-tools** on [Google Code archive](https://code.google.com/archive/p/metro2033-tools/).
 
 ## Tools
 
