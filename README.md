@@ -28,6 +28,8 @@ There may be times where you might laugh and scoff and say "There's a better way
 
 If you'd like to **contribute** just check out the [Github Page](https://github.com/ballerfuturistic/sfmnauts) and make a commit with what you'd like to change or your own guide. I'll review it and then merge it, and it'll go live on the site.
 
+If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language. https://toolchain.gitbook.com/syntax/markdown.html
+
 If there's any issues, either [DM ](https://twitter.com/ballerfuturistc)me or message me on Discord &gt; **Mars\#1305**
 
 **yes, you need to include the capital M, i think.**
