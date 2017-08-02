@@ -46,10 +46,10 @@ If your file is an .obj with a .mtl in the same location, your program should au
 <img src="img/max_materials.png">
 </p>
 
-### Enabling translucency in the viewport:
+### Enabling transparency in the viewport:
 
 1. At the top left of your active viewport, **click the third option**, your shading settings
-2. In the window that appears, **hover over Materials**, then checkmark **Enable Translucency**
+2. In the window that appears, **hover over Materials**, then checkmark **Enable Transparency**
 
 <p align="center"> 
 <img src="img/max_transparency.png">
@@ -91,7 +91,7 @@ While most Blender users will insist on assigning textures via materials and lig
 
 You do not need to keep reopening the same image over and over for each material, simply highlight the faces and **click the icon to the left of +New** in the **UV/Image Editor** to select an image that has already been added to the scene. **This can also be done with material names.**
 
-### Enabling translucency in the viewport:
+### Enabling transparency in the viewport:
 
 1. Select the material which uses translucency, scroll down in the material properties until you find the **Transparency** tab
 2. Checkmark the box in front of Transparency, **make sure Z Transparency is the mode being used**
