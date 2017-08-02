@@ -14,7 +14,9 @@ If your file is an .obj with a .mtl in the same location, your program should au
 1. Check **Show maps in viewport** while viewing **OBJ Import Options** before importing
 2. Textures should automatically be assigned and visible in the viewport
 
-pic
+<p align="center"> 
+<img src="img/obj_import_max.png">
+</p>
 
 ### Redirecting existing texture paths:
 
@@ -24,7 +26,9 @@ pic
 4. Use the navigation window to set the path to the new location of the texture its referencing
 5. The viewport should now show the textures on the model once the new path has been set
 
-pic
+<p align="center"> 
+<img src="img/pathfix_max.png">
+</p>
 
 ### Assigning textures manually:
 
@@ -37,15 +41,17 @@ pic
 7. Right click the Bipmap node, checkmark **Show Shaded Material in Viewport**
 8. Repeat this process for each texture you need to assign
 
-pic
+<p align="center"> 
+<img src="img/materials_max.png">
+</p>
 
 ### Enabling translucency in the viewport:
 
 1. At the top left of your active viewport, **click the third option**, your shading settings
 2. In the window that appears, **hover over Materials**, then checkmark **Enable Translucency**
 
-pic
+<p align="center"> 
+<img src="img/transparency_max.png">
+</p>
 
 # Blender
-
-### Assigning textures in 3DSMax assuming your model tells you what textures are missing.
