@@ -26,7 +26,14 @@ There may be times where you might laugh and scoff and say "There's a better way
 
 ## Contributing
 
-If you'd like to **contribute** just check out the [Github Page](https://github.com/ballerfuturistic/sfmnauts) and make a commit with what you'd like to change or your own guide. I'll review it and then merge it, and it'll go live on the site.
+If you'd like to **contribute** just check out the [Github Page](https://github.com/ballerfuturistic/sfmnauts) and make a **fork.** You can do this as long as you're **signed in.** Click the **fork button** on this Githubs **main page.**
+
+After you've made the **fork,** simply edit the files to your hearts content -- **don't worry, it won't affect this master branch at all.**
+
+You edit the files by hitting **"new file."**
+
+If you add a **/** at the end of a **new file name** it'll make a folder. 
+Whatever directory you hit **new file** in is where the file will be created, along with any subdirectories you make -- so be careful.
 
 If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language. [https://toolchain.gitbook.com/syntax/markdown.html](https://toolchain.gitbook.com/syntax/markdown.html)
 
