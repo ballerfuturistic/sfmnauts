@@ -45,7 +45,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 * Damaged mesh data, rigging, and smoothing errors, due to author inexperience
 * Semi DeviantArt community, extremely varying levels of quality
 
-**MMD (Miku Miku Dance):**
+**MMD (MikuMikuDance):**
 * Skeletons are completely replaced, model is rerigged to the dancing anime girl skeleton
 * Excessive material reassignment
 * Textures are often modified from their original incarnation, especially specular maps
@@ -58,7 +58,8 @@ _A place where you may find models nobody else seems to know how to extract, occ
 * Skeletons are completely replaced, model is usually rigged to an existing character's skeleton
 * Meshes are often reduced from their initial polycount to be optimized for the Wii
 * Downscaled texture sizes
-* Somewhat experienced community, but also rather whiny
+* Somewhat experienced community, but also rather whiny, and dead
+  * Gamebanana hosts content for Smash 4, many former users reside there currently
 
 **The Models Resource:**
 
@@ -67,7 +68,7 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 * Rigging may or may not be included, if it is, it's usually the original unmodified bones and weighting
 * Original textures and material names are usually maintained
 * Still subject to any errors caused by the import tools, most users won't fix them before uploading
-* Usually safe from any added errors caused by inexperienced users, due to very little modification from initial imports
+  * Usually safe from any added errors caused by inexperienced users, due to very little modification from initial imports
 
 **Second Life:**
 
