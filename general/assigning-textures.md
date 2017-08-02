@@ -13,7 +13,7 @@
 ### [Blender](assigning-textures.md#blender-1)
 1. [Enabling Textured Solid and Backface Culling](assigning-textures.md#enabling-textured-solid-and-backface-culling)
 2. [Importing files with embedded texture paths](assigning-textures.md#importing-files-with-embedded-texture-paths)
-3. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths-1)
+3. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths-2)
 4. [Assigning textures directly to the faces](assigning-textures.md#assigning-textures-directly-to-the-faces)
 5. [Enabling transparency in the viewport](assigning-textures.md#enabling-transparency-in-the-viewport-1)
 6. [Enabling texture clamping in the viewport](assigning-textures.md#enabling-texture-clamping-in-the-viewport)
