@@ -41,6 +41,8 @@ If there's any issues, either [DM ](https://twitter.com/ballerfuturistc)me or me
 
 **yes, you need to include the capital M, i think.**
 
+**It would be good to touch base about what you're going to commit** before adding it due to the nature off these things, **but not neccessary.** I'll read over it.
+
 ## Credits
 
 **None of this** would be possible without the help of these people:
