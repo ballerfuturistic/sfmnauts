@@ -6,14 +6,14 @@
 
 ### [3DS-Max](assigning-textures.md#3ds-max-1)
 1. [Importing an .obj with a proper .mtl](assigning-textures.md#importing-an-obj-with-a-proper-mtl)
-2. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths)
+2. [Redirecting existing texture paths](assigning-textures.md#3ds-max-redirecting-existing-texture-paths)
 3. [Assigning textures manually](assigning-textures.md#assigning-textures-manually)
 4. [Enabling transparency in the viewport](assigning-textures.md#enabling-transparency-in-the-viewport)
 
 ### [Blender](assigning-textures.md#blender-1)
 1. [Enabling Textured Solid and Backface Culling](assigning-textures.md#enabling-textured-solid-and-backface-culling)
 2. [Importing files with embedded texture paths](assigning-textures.md#importing-files-with-embedded-texture-paths)
-3. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths-1)
+3. [Redirecting existing texture paths](assigning-textures.md#blender-redirecting-existing-texture-paths)
 4. [Assigning textures directly to the faces](assigning-textures.md#assigning-textures-directly-to-the-faces)
 5. [Enabling transparency in the viewport](assigning-textures.md#enabling-transparency-in-the-viewport-1)
 6. [Enabling texture clamping in the viewport](assigning-textures.md#enabling-texture-clamping-in-the-viewport)
@@ -37,7 +37,7 @@ If your file is an .obj with a .mtl in the same location, your program should au
 <img src="img/max_obj_import.png">
 </p>
 
-### Redirecting existing texture paths:
+### 3DS Max Redirecting existing texture paths:
 
 1. After importing your model, **save the scene**
 2. Press **Shift+T** to open the **Asset Tracking** window, here you will see any texture paths set prior
@@ -91,7 +91,7 @@ Blender is very good about reading texture paths correctly from various model fo
 
 Importing an FBX with texture paths will behave differently. The texture paths will be assigned to the materials, but the model's faces won't actually have the textures applied. If you switch to Material shading however, the textures will show but the model will turn black due to a lack of lighting. Create a Hemi light at the center of the grid to illuminate the scene and see the textures.
 
-### Redirecting existing texture paths:
+### Blender Redirecting existing texture paths:
 
 If you import a model or load a scene that is supposed to have textures applied, but all you see is a purple error texture on the mesh, this means that Blender knows that textures are supposed to be there, but simply can't find them. If this happens, you can easily fix the problem by going to **File > External Data > Find Missing Files** and navigating to the directory where the texture files reside. The image names only need to match the names of the textures Blender wants to use.
 
