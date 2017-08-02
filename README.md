@@ -35,7 +35,11 @@ You edit the files by hitting **"new file."**
 If you add a **/** at the end of a **new file name** it'll make a folder. 
 Whatever directory you hit **new file** in is where the file will be created, along with any subdirectories you make -- so be careful.
 
-If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language. [https://toolchain.gitbook.com/syntax/markdown.html](https://toolchain.gitbook.com/syntax/markdown.html)
+Afterwords, go back to **your own Github page** and hit **New Pull Request.**
+
+The rest should be self explanatory and you'll have **submit it for review.**
+
+**If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language.**[https://toolchain.gitbook.com/syntax/markdown.html](https://toolchain.gitbook.com/syntax/markdown.html)
 
 If there's any issues, either [DM ](https://twitter.com/ballerfuturistc)me or message me on Discord &gt; **Mars\#1305**
 
