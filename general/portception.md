@@ -73,6 +73,7 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 * Usually safe from any additional damage caused by user error, due to very little modification from the base imports
 
 **Second Life:**
+
 _Do not ever use anything from Second Life, under any circumstances_
 
 _Guaranteed garbage quality and an insane community obsessed with copyright_
