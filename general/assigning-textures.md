@@ -6,8 +6,9 @@ When you import your model, usually you will not immediately see the textures as
 Most often you will have to assign them manually to the model.
 
 If your file is an .obj with a .mtl in the same location, your program should automatically assign the textures assuming the texture files are where the .mtl expects them to be. Several other formats also have the ability to embed texture paths, FBX being one of them.
+ 
 
-
+ 
 ## 3DS Max
 
 ### Importing an .obj with a proper .mtl:
@@ -57,6 +58,8 @@ If your file is an .obj with a .mtl in the same location, your program should au
  
 
  
+
+ 
 ## Blender
 
 ### Enabling Textured Solid and Backface Culling:
@@ -74,6 +77,10 @@ The main advantage of this is that you will now be able to see textures under no
 Blender is very good about reading texture paths correctly from various model formats that support it. Importing an .obj with a valid .mtl attached should automatically assign the textures to the materials, and immediately appear in the viewport.
 
 Importing an FBX with texture paths will behave differently. The texture paths will be assigned to the materials, but the model's faces won't actually have the textures applied. If you switch to Material shading however, the textures will show but the model will turn black due to a lack of lighting. Create a Hemi light at the center of the grid to illuminate the scene and see the textures.
+
+### Redirecting existing texture paths:
+
+If you import a model or load a scene that is supposed to have textures applied, but all you see is a purple error texture on the mesh, this means that Blender knows that textures are supposed to be there, but simply can't find them. If this happens, you can easily fix the problem by going to **File > External Data > Find Missing Files** and navigating to the directory where the texture files reside. The image names only need to match the names of the textures Blender wants to use.
 
 ### Assigning textures directly to the faces:
 
