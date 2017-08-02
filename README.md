@@ -4,8 +4,6 @@ SFM is a great program with a great community around it focused around models po
 
 The reality is, albeit SFM itself is pretty popular, model porting is a small community and indefinitely a **niche** in the grand scheme of things. It's an **even smaller niche** when you only consider people who release "good ports."
 
----
-
 There are those who take it a step further and contribute time out of their day in order to provide more content to the community for use, which I'm extremely thankful for. However, honestly, the information is a bit hard to come by or completely kept under wraps -- most of what people **are** able to come by is usually kept on threads or post replies. This is partially because I believe there's no real documentation to these things. This is why I propose the SFMNauts project.
 
 In order to expand our niche with newcomers, and in order provide help and documentation for people interested, or even those already experienced porting content -- I believe information should be easy to access.
