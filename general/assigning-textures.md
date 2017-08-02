@@ -6,15 +6,14 @@ When you import your model, usually you will not immediately see the textures as
 Most often you will have to assign them manually to the model.
 
 If your file is an .obj with a .mtl in the same location, your program should automatically assign the textures assuming the texture files are where the .mtl expects them to be. Several other formats also have the ability to embed texture paths, FBX being one of them.
- 
 
- 
 ## 3DS Max
 
 ### Importing an .obj with a proper .mtl:
 
 1. Check **Show maps in viewport** while viewing **OBJ Import Options** before importing
 2. Textures should automatically be assigned and visible in the viewport
+
 
 <p align="center"> 
 <img src="img/max_obj_import.png">
@@ -55,11 +54,7 @@ If your file is an .obj with a .mtl in the same location, your program should au
 <p align="center"> 
 <img src="img/max_transparency.png">
 </p>
- 
 
- 
-
- 
 ## Blender
 
 ### Enabling Textured Solid and Backface Culling:
@@ -89,6 +84,7 @@ While most Blender users will insist on assigning textures via materials and lig
 1. With your model imported, and **Textured Solid** enabled, **open a new editor window** by dragging the triangle icon located at the top right of the viewport, outward to the left until you are satisfied with the size of the new window
 2. With the new editor window active, switch the editor type to the **UV/Image Editor** by clicking the icon in the bottom left of the viewport
 3. On the properties panel to the right, **click the orange icon to show material properties**
+ panel to the right, **click the orange icon to open material properties**
 4. At the top of this section you will see every material name your model uses, **switch to Edit Mode (Tab)**
 5. While in Edit Mode, **switch to face selection mode** via the orange cube icon at the bottom middle of the viewport, to the right of the box that says "Global"
 6. Highlight a material name and click **Select** below, every face on your model that uses this material will be selected now
@@ -103,6 +99,7 @@ While most Blender users will insist on assigning textures via materials and lig
 You do not need to keep reopening the same image over and over for each material, simply highlight the faces and **click the icon to the left of +New** in the **UV/Image Editor** to select an image that has already been added to the scene. **This can also be done with material names.**
 
 ### Enabling transparency in the viewport:
+
 
 1. Select the material which uses transparency, scroll down in the material properties until you find the **Transparency** tab
 2. Checkmark the box in front of Transparency, **make sure Z Transparency is the mode being used**
