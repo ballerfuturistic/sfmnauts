@@ -3,9 +3,9 @@
 This document explains the type of files WoW uses and which you will need. You can ignore the rest. The tools required to open or convert these files are in the actual guides.
 
 ### Table of Contents 
-* [WoW Filesystems](#WoW-Filesystems)
-* [Model files](#Model-files)
-* [Texture files](#Texture-files)
+* [WoW Filesystems](type-of-files.md#WoW-Filesystems)
+* [Model files](type-of-files.md#Model-files)
+* [Texture files](type-of-files.md#Texture-files)
 
 
 ## WoW Filesystems
