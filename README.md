@@ -16,7 +16,7 @@ This isn't solely even for the existing SFM community, but even for those who yo
 
 Many will be contributing to this wiki in an effort to lessen this dilemma, mostly focusing on PBR -&gt; Source texture conversation, but will write full write ups on how to port from beginning to end on some of these.
 
-## This wiki will always be free and open. It will NEVER EVER take money for the methods provided here. It will never have a Patreon. It will never lock content behind some requirements. It has a completely open Github available with all the information where you can contribute and read over it.
+## This wiki will always be free and open. It will NEVER EVER take money for the methods provided here. It will never have a Patreon. It will never lock content behind ANY requirements. It has a completely open Github available with all the information where you can contribute and read over it.
 
 This is, of course, **going to assume that you have general knowledge of Photoshop and some experience working with models.**
 
