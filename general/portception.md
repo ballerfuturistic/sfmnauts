@@ -7,7 +7,7 @@ Additionally, keep in mind this is a hobbyist community. The majority of porters
 It's simply bad practice; don't rely on other people to do your work for you. The best way to improve your skills and get better at what you do is to learn how to do things yourself. Apply your own methods and expand on them in future endeavors.
 Practice makes perfect.
 
-It is incredibly important that you begin your project with a fresh extraction from the game files whenever possible, only utilizing others' work as a last resort for complicated issues where it does not make sense to invest a large amount of time into something when someone else has already done so.
+**It is incredibly important that you begin your project with a fresh extraction from the game files whenever possible, only utilizing others' work as a last resort for complicated issues where it does not make sense to invest a large amount of time into something when someone else has already done so.**
 
 Examples of situations where using others' work could be justifiable:
 
