@@ -4,8 +4,8 @@ This lists all of the known ways how to port models from WoD and Legion WoW Clie
 
 Also, please remember that trying to get a WMO
 ### Table of Contents
-* [Easy way - Using WMV](Using-WoW-Model-Viewer)
-* [The harder way - Manual extract](Manual-extract)
+* [Easy way - Using WMV](post-wod.md#Using-WoW-Model-Viewer)
+* [The harder way - Manual extract](post-wod.md#Manual-extract)
 
 ## Using WoW Model Viewer
 WoW Model Viewer is an application developed by Jerommimo that allows you to view and export WoW models.
