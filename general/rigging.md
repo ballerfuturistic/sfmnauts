@@ -8,7 +8,7 @@ In simple terms, if you throw a mid-high poly model from a recent game into Sour
 
 The rigging data loss could be negligable, or it could be completely destructive. It's entirely situational, every rig is different. You may have a high poly model that loses almost no rigging, and then a mid poly model with a nearly broken pelvis.
 
-### In this article I will explain what causes rigging loss, how to identify it, and how to prevent it.
+### This article will explain what causes rigging loss, how to identify it, and how to totally prevent it.
 -----
 
 # The Causes
