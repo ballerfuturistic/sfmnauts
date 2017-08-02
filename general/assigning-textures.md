@@ -87,8 +87,8 @@ If you import a model or load a scene that is supposed to have textures applied,
 While most Blender users will insist on assigning textures via materials and lighting a scene, it is actually completely unnecessary, the porting process has no need for Blender's material system. You can simply use the materials to highlight the corresponding faces and open an image file directly onto those faces, bypassing the material system altogether.
 
 1. With your model imported, and **Textured Solid** enabled, **open a new editor window** by dragging the triangle icon located at the top right of the viewport, outward to the left until you are satisfied with the size of the new window
-2. With a new editor window active, switch the editor type to the **UV/Image Editor** by clicking the icon in the bottom left of the viewport
-3. On the properties panel to the right, **click the orange icon to open material properties**
+2. With the new editor window active, switch the editor type to the **UV/Image Editor** by clicking the icon in the bottom left of the viewport
+3. On the properties panel to the right, **click the orange icon to show material properties**
 4. At the top of this section you will see every material name your model uses, **switch to Edit Mode (Tab)**
 5. While in Edit Mode, **switch to face selection mode** via the orange cube icon at the bottom middle of the viewport, to the right of the box that says "Global"
 6. Highlight a material name and click **Select** below, every face on your model that uses this material will be selected now
