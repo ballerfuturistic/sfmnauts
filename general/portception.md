@@ -7,7 +7,7 @@ Additionally, keep in mind this is a hobbyist community. The majority of porters
 It's simply bad practice; don't rely on other people to do your work for you. The best way to improve your skills and get better at what you do is to learn how to do things yourself. Apply your own methods and expand on them in future endeavors.
 Practice makes perfect.
 
-**It is incredibly important that you begin your project with a fresh extraction from the game files whenever possible, only utilizing others' work as a last resort for complicated issues where it does not make sense to invest a large amount of time into something when someone else has already done so.**
+**It is incredibly important that you begin your project with a fresh extraction from the game files whenever possible, only utilizing others' work as a last resort for complicated issues where it does not make sense to invest a large amount of time doing something that's already been done by someone else.**
 
 Examples of situations where using others' work could be justifiable:
 
@@ -39,16 +39,16 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 
 **Garry's Mod:**
 * Bones renamed to Valve Biped format, but usually the old HL2 format
-* Finger bone rolls changed, rest position modified into a claw state
+* Finger bones reoriented, finger rest positions modified into a claw grip
 * Double compression on textures, **DO NOT** extract from a VTF texture with DXT compression
-* Facial bones are often removed in favor of vertex flexing
+* Facial bones are often removed in favor of vertex flexes
 * Rigging loss due to Source's weighting limitations (SFM is no different!)
 * Possibly reduced bone count due to Gmod being an older engine branch
 * Damaged mesh data, rigging, and smoothing errors, due to author inexperience
 * Semi DeviantArt community, extremely varying levels of quality
 
 **MMD (MikuMikuDance):**
-* Skeletons are completely replaced, model is rerigged to the dancing anime girl skeleton
+* Skeletons are completely replaced, model is rerigged to a dancing anime girl skeleton
 * Excessive material reassignment
 * Textures are often modified from their original state, especially specular maps
 * DeviantArt/Weaboo community, although surprisingly they often produce much higher quality work than XNA users
