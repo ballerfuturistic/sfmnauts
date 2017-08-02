@@ -6,7 +6,7 @@
 
 ### [3DS-Max](assigning-textures.md#3ds-max-1)
 1. [Importing an .obj with a proper .mtl](assigning-textures.md#importing-an-obj-with-a-proper-mtl)
-2. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths)
+2. [Redirecting existing texture paths](assigning-textures.md#redirecting-existing-texture-paths-1)
 3. [Assigning textures manually](assigning-textures.md#assigning-textures-manually)
 4. [Enabling transparency in the viewport](assigning-textures.md#enabling-transparency-in-the-viewport)
 
