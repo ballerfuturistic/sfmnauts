@@ -21,7 +21,7 @@ Many less experienced users are unaware of this fact. Most 3D programs allow you
 
 If you were to export a mesh with non-normalized weight values, then reimport the exported result, you will observe that the weight values have been restructured to be properly normalized.
 
-The consequences of this are usually light since the restructured rigging attempts to resemble what you had before, but **it absolutely can create mismatched results between what you see in your 3D program, and the final rigging you see in-game**. Your rig will survive auto-normalization,  but you can easily lose very crucial weights in delicate areas that really do make a difference up close. When doing custom rigging, **always rig normalized.** Most programs have an option to keep weights normalized at all times while doing your weight assigning.
+The consequences of this are usually light since the restructured rigging attempts to resemble what you had before, but **it absolutely can create mismatched results between what you see in your 3D program, and the final rigging you see in-game**. Your rig will survive auto-normalization,  but you can easily lose very crucial weights in delicate areas that really do make a difference up close. When doing custom rigging, **always rig normalized.** Most programs have an option to keep weights normalized at all times while assigning weights.
  
 
  
