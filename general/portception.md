@@ -21,7 +21,7 @@ Bad rigging is not better than no rigging at all, they are equally unacceptable.
 
 Even if you have no intention of making your own models one day, learn how to properly rig. A model is worthless without a good rig to pose it. Even if your model imports with perfect game accurate rigging, it is highly likely that it won't translate that way to Source or other older engines, due to weighting limitations. Please read Taco's guide on Source Engine rigging for more information on this.
 
-### COMMON ISSUES WITH PORTS FROM OTHER PLATFORMS
+### COMMON ISSUES WITH PORTS FROM OTHER PLATFORMS:
 
 Most ports you find for other platforms will be damaged in some way from their original extracted state, unknowingly by the author.
 
@@ -35,7 +35,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 * Damaged mesh data, rigging, and smoothing errors, due to author inexperience
 * DeviantArt community, so don't expect quality work in general
 
-**GARRYSMOD:**
+**Garry's Mod:**
 * Bones renamed to Valve Biped format, but usually the old HL2 format
 * Finger bone rolls changed, rest position modified into a claw state
 * Double compression on textures, **DO NOT** extract from a VTF texture with DXT compression
@@ -51,7 +51,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 * Textures are often modified from their original incarnation, especially specular maps
 * DeviantArt/Weaboo community, although surprisingly they often produce much higher quality work than XNA users
 
-**KCMM (Brawl Vault)**
+**KCMM (Brawl Vault):**
 
 _A place where you may find models nobody else seems to know how to extract, occasionally useful_
 
