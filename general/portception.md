@@ -52,6 +52,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 * DeviantArt/Weaboo community, although surprisingly they often produce much higher quality work than XNA users
 
 **KCMM (Brawl Vault)**
+
 _A place where you may find models nobody else seems to know how to extract, occasionally useful_
 
 * Skeletons are completely replaced, model is usually rigged to an existing character's skeleton
@@ -60,6 +61,7 @@ _A place where you may find models nobody else seems to know how to extract, occ
 * Somewhat experienced community, but also rather whiny
 
 **The Models Resource:**
+
 _Often a good source to acquire unmodified, cleanly extracted models when you don't have the tools you need_
 
 * Rigging may or may not be included, if it is, it's usually the original unmodified bones and weighting
@@ -70,4 +72,5 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 **Second Life:**
 
 _Do not ever use anything from Second Life, under any situation_
+
 _Guaranteed garbage quality and an insane community obsessed with copyright_
