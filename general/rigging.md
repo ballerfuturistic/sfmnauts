@@ -29,4 +29,5 @@ You can export **SMD files** with as many vertex weights as you'd like, but if y
 
 **DMX files** on the other hand, will simply refuse to compile. (ERROR: ACCESS VIOLATION LMAO)
 
-- Note that both formats are able to contain weights past the limit, it is only on compile when the culling will occur.
+- SMD and DMX files are able to store weights past the limit, studiomdl is what culls the weights, not the model format
+- In Source 2, the limit is raised to 4, so this problem goes away if by some miracle SFM is ever ported over properly
