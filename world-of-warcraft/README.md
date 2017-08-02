@@ -14,3 +14,16 @@ If you have any questions, message me on Discord -> **steak#3816**
 
 I'm not responsible if you break something.
 
+**Currently covers:**
+
+> [Types of WoW files](/world-of-warcraft/type-of-files.md)
+>
+> [Client Differences](/world-of-warcraft/client-differences.md)
+>
+> [Porting from Pre-WoD](/world-of-warcraft/pre-wod.md)
+>
+> [Porting from Post-WoD](/world-of-warcraft/post-wod.md)
+>
+> [Model Importing](/metro-redux/importing.md)
+>
+> [Backporting WoD to MoP](/world-of-warcraft/backport.md)
