@@ -13,7 +13,7 @@ The rigging data loss could be negligable, or it could be completely destructive
 
 # The Causes
 
-### Bone Weights per Vertex Limit
+### Bone Weights Per Vertex Limit
 
 Source has a hard coded limit on the number of bone weights per vertex. It is integral to the engine and cannot be changed.
 Most modern engines support 4 weights per vertex, sometimes more. Even many older games have allowed this many.
@@ -25,6 +25,8 @@ What does this mean? It means that any vertices that have more than 3 bone weigh
 
 #### _To put it simply, each vertex on the model may only be influenced by up to 3 bones._
 
-You can export **SMD files** with as many vertex weights as you'd like, but if you go past the limit, studiomdl **WILL** change your weights on compile to comply. Often in ways detrimental to the integrity of the rig.
+You can export **SMD files** with as many vertex weights as you'd like, but if you go past the limit, studiomdl **WILL** change your weight values to comply with the limit. Often in ways detrimental to the integrity of the rig.
 
-**DMX files** on the other hand, will simply refuse to compile altogether. (ERROR: ACCESS VIOLATION LOL)
+**DMX files** on the other hand, will simply refuse to compile. (ERROR: ACCESS VIOLATION LMAO)
+
+- Note that both formats are able to contain weights past the limit, it is only on compile when the culling will occur.
