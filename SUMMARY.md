@@ -6,6 +6,7 @@
   * [NinjaRipper](general-tools/ninjaripper.md)
 * [General](general/README.md)
   * [Assigning Textures](general/assigning-textures.md)
+  * [XNALara](general/xnalara.md)
 * [Metro Redux](metro-redux/README.md)
   * [Tools](metro-redux/tools.md)
   * [Texture Conversion](metro-redux/texture-conversion.md)
@@ -20,8 +21,4 @@
   * [Porting from Pre-WoD client](world-of-warcraft/pre-wod.md)
   * [Porting from Post-WoD client](world-of-warcraft/post-wod.md)
   * [Backporting Post-WoD content to Pre-WoD client](world-of-warcraft/backport.md)
-  
-  
-
-
 
