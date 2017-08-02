@@ -7,13 +7,13 @@ Most often you will have to assign them manually to the model.
 
 If your file is an .obj with a .mtl in the same location, your program should automatically assign the textures assuming the texture files are where the .mtl expects them to be. Several other formats also have the ability to embed texture paths, FBX being one of them.
 
-
 ## 3DS Max
 
 ### Importing an .obj with a proper .mtl:
 
 1. Check **Show maps in viewport** while viewing **OBJ Import Options** before importing
 2. Textures should automatically be assigned and visible in the viewport
+
 
 <p align="center"> 
 <img src="img/max_obj_import.png">
@@ -54,9 +54,7 @@ If your file is an .obj with a .mtl in the same location, your program should au
 <p align="center"> 
 <img src="img/max_transparency.png">
 </p>
- 
 
- 
 ## Blender
 
 ### Enabling Textured Solid and Backface Culling:
@@ -75,13 +73,18 @@ Blender is very good about reading texture paths correctly from various model fo
 
 Importing an FBX with texture paths will behave differently. The texture paths will be assigned to the materials, but the model's faces won't actually have the textures applied. If you switch to Material shading however, the textures will show but the model will turn black due to a lack of lighting. Create a Hemi light at the center of the grid to illuminate the scene and see the textures.
 
+### Redirecting existing texture paths:
+
+If you import a model or load a scene that is supposed to have textures applied, but all you see is a purple error texture on the mesh, this means that Blender knows that textures are supposed to be there, but simply can't find them. If this happens, you can easily fix the problem by going to **File > External Data > Find Missing Files** and navigating to the directory where the texture files reside. The image names only need to match the names of the textures Blender wants to use.
+
 ### Assigning textures directly to the faces:
 
 While most Blender users will insist on assigning textures via materials and lighting a scene, it is actually completely unnecessary, the porting process has no need for Blender's material system. You can simply use the materials to highlight the corresponding faces and open an image file directly onto those faces, bypassing the material system altogether.
 
 1. With your model imported, and **Textured Solid** enabled, **open a new editor window** by dragging the triangle icon located at the top right of the viewport, outward to the left until you are satisfied with the size of the new window
-2. With a new editor window active, switch the editor type to the **UV/Image Editor** by clicking the icon in the bottom left of the viewport
-3. On the properties panel to the right, **click the orange icon to open material properties**
+2. With the new editor window active, switch the editor type to the **UV/Image Editor** by clicking the icon in the bottom left of the viewport
+3. On the properties panel to the right, **click the orange icon to show material properties**
+ panel to the right, **click the orange icon to open material properties**
 4. At the top of this section you will see every material name your model uses, **switch to Edit Mode (Tab)**
 5. While in Edit Mode, **switch to face selection mode** via the orange cube icon at the bottom middle of the viewport, to the right of the box that says "Global"
 6. Highlight a material name and click **Select** below, every face on your model that uses this material will be selected now
@@ -97,7 +100,8 @@ You do not need to keep reopening the same image over and over for each material
 
 ### Enabling transparency in the viewport:
 
-1. Select the material which uses translucency, scroll down in the material properties until you find the **Transparency** tab
+
+1. Select the material which uses transparency, scroll down in the material properties until you find the **Transparency** tab
 2. Checkmark the box in front of Transparency, **make sure Z Transparency is the mode being used**
 
 <p align="center"> 

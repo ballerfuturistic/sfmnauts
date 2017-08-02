@@ -70,10 +70,8 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 * Rigging may or may not be included, if it is, it's usually the original unmodified bones and weighting
 * Original textures and material names are usually maintained
 * Still subject to any errors caused by the import tools, many users won't fix them before uploading
-  * Usually safe from any additional damage caused by user error, due to very little modification from the base imports
+* Usually safe from any additional damage caused by user error, due to very little modification from the base imports
 
 **Second Life:**
-
-_Do not ever use anything from Second Life, under any circumstance_
-
+_Do not ever use anything from Second Life, under any circumstances_
 _Guaranteed garbage quality and an insane community obsessed with copyright_
