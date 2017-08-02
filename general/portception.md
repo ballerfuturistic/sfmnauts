@@ -74,6 +74,6 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 
 **Second Life:**
 
-_Do not ever use anything from Second Life, under any situation_
+_Do not ever use anything from Second Life, under any circumstance_
 
 _Guaranteed garbage quality and an insane community obsessed with copyright_
