@@ -104,7 +104,7 @@ You do not need to keep reopening the same image over and over for each material
 
 ### Enabling transparency in the viewport:
 
-1. Select the material which uses translucency, scroll down in the material properties until you find the **Transparency** tab
+1. Select the material which uses transparency, scroll down in the material properties until you find the **Transparency** tab
 2. Checkmark the box in front of Transparency, **make sure Z Transparency is the mode being used**
 
 <p align="center"> 
