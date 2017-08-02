@@ -1,5 +1,5 @@
 
-# Assigning textures in your 3D Program
+# Assigning textures in your 3D Package
 -----
 
 When you import your model, usually you will not immediately see the textures assigned.
@@ -89,6 +89,10 @@ While most Blender users will insist on assigning textures via materials and lig
 8. Navigate to the texture file that is meant to be assigned to the material you highlighted, open it
 9. The texture should be applied to your model now, repeat these steps for each material until your model is fully textured
 
+<p align="center"> 
+<img src="img/blender_textures.gif">
+</p>
+
 You do not need to keep reopening the same image over and over for each material, simply highlight the faces and **click the icon to the left of +New** in the **UV/Image Editor** to select an image that has already been added to the scene. **This can also be done with material names.**
 
 ### Enabling transparency in the viewport:
@@ -107,3 +111,9 @@ You do not need to keep reopening the same image over and over for each material
 1. With the texture open in the **UV/Image Editor, press N** to open a column with additional properties.
 2. Find **Game Properties** in the column, **expand it** and you will see check boxes for **Clamp X and Clamp Y**
 3. Your texture will be clamped according to how you set these, _**these settings apply to everything using that texture file**_, it is not a per-material setting
+ 
+ 
+  
+<p align="center"> 
+<img src="img/blender_clamping.gif">
+</p>
