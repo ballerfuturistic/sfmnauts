@@ -4,9 +4,9 @@ This lists all of the known ways how to port models from old versions of WoW. **
 
 
 ### Table of Contents
-* [Easy way - Using WMV](pre-wod.md#Using-WoW-Model-Viewer)
-* [Easy way - Machinima Studio (Paid)](pre-wod.md#Machinima-Studio)
-* [The harder way - Manual extract](pre-wod.md#Manual-extract)
+* [Easy way - Using WMV](pre-wod.md#using-wow-model-viewer)
+* [Easy way - Machinima Studio (Paid)](pre-wod.md#machinima-studio)
+* [The harder way - Manual extract](pre-wod.md#manual-extract)
 
 ## Using WoW Model Viewer
 WoW Model Viewer is an application developed by Jerommimo that allows you to view and export WoW models.
