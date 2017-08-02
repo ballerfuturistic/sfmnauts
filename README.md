@@ -39,7 +39,8 @@ Afterwords, go back to **your own Github page** and hit **New Pull Request.**
 
 The rest should be self explanatory and you'll have **submit it for review.**
 
-**If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language.**[https://toolchain.gitbook.com/syntax/markdown.html](https://toolchain.gitbook.com/syntax/markdown.html)
+**If you want to contribute, please make sure you're using Gitbook's syntax of Markdown language.**
+[https://toolchain.gitbook.com/syntax/markdown.html](https://toolchain.gitbook.com/syntax/markdown.html)
 
 If there's any issues, either [DM ](https://twitter.com/ballerfuturistc)me or message me on Discord &gt; **Mars\#1305**
 
