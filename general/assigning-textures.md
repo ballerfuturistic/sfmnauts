@@ -39,7 +39,7 @@ If your file is an .obj with a .mtl in the same location, your program should au
 4. Attached to the **Diffuse Color property** for your material, there should be a node labeled **Bitmap**, if not, create it
 5. **Double click the Bitmap node** and the map window will appear, expand the **Bitmap Parameters** section
 6. Click the first option, a window will appear for you to browse to the location of the texture file to assign
-7. Right click the Bipmap node, checkmark **Show Shaded Material in Viewport**
+7. Right click the Bitmap node, checkmark **Show Shaded Material in Viewport**
 8. Repeat this process for each texture you need to assign
 
 <p align="center"> 
