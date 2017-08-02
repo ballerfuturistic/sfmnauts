@@ -19,7 +19,9 @@ In the case of extensive rigging or bone loss, it is **HIGHLY INADVISABLE** to r
 Poor rigging is by far the biggest common issue shared amongst inexperienced hobbyist users. It's not always the case of course, but more likely than not, you are going to end up importing garbage rigging.
 Bad rigging is not better than no rigging at all, they are equally unacceptable.
 
-Even if you have no intention of making your own models one day, learn how to properly rig. A model is worthless without a good rig to pose it. Even if your model imports with perfect game accurate rigging, it is highly likely that it won't translate that way to Source or other older engines, due to weighting limitations. Please read Taco's guide on Source Engine rigging for more information on this.
+Even if you have no intention of making your own models one day, learn how to properly rig. A model is worthless without a good rig to pose it. Even if your model imports with perfect game accurate rigging, it is highly likely that it won't translate that way to Source or other older engines, due to weighting limitations.
+
+[Please see the page on Source Engine rigging for more information on this.](rigging.md)
 
 ### COMMON ISSUES WITH PORTS FROM OTHER PLATFORMS:
 
@@ -31,7 +33,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 * Bone rotations are not supported, animations will never be compatible
 * Completely renamed bones
 * Altered skeleton hierarchy
-* Textures are often modified from their original incarnation, especially specular maps
+* Textures are often modified from their original state, especially specular maps
 * Damaged mesh data, rigging, and smoothing errors, due to author inexperience
 * DeviantArt community, so don't expect quality work in general
 
@@ -48,7 +50,7 @@ XNA and Gmod users in particular tend to only understand 3D concepts directly re
 **MMD (MikuMikuDance):**
 * Skeletons are completely replaced, model is rerigged to the dancing anime girl skeleton
 * Excessive material reassignment
-* Textures are often modified from their original incarnation, especially specular maps
+* Textures are often modified from their original state, especially specular maps
 * DeviantArt/Weaboo community, although surprisingly they often produce much higher quality work than XNA users
 
 **KCMM (Brawl Vault):**
@@ -67,8 +69,8 @@ _Often a good source to acquire unmodified, cleanly extracted models when you do
 
 * Rigging may or may not be included, if it is, it's usually the original unmodified bones and weighting
 * Original textures and material names are usually maintained
-* Still subject to any errors caused by the import tools, most users won't fix them before uploading
-  * Usually safe from any added errors caused by inexperienced users, due to very little modification from initial imports
+* Still subject to any errors caused by the import tools, many users won't fix them before uploading
+  * Usually safe from any additional damage caused by user error, due to very little modification from the base imports
 
 **Second Life:**
 
