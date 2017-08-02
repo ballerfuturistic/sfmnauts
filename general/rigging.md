@@ -21,8 +21,10 @@ Many less experienced users are unaware of this fact. Most 3D programs allow you
 
 If you were to export a mesh with non-normalized weight values, then reimport the exported result, you will observe that the weight values have been restructured to be properly normalized.
 
-The consequences of this are usually light since the restructured rigging attempts to resemble what you had before, but **it absolutely can create mismatched results between what you see in your 3D program, and the final rigging you see in-game**. Your rig will survive auto-normalization,  but you can easily lose very crucial weights in delicate areas that really do make a difference up close. When doing custom rigging, **always use an auto-normalization function.**
+The consequences of this are usually light since the restructured rigging attempts to resemble what you had before, but **it absolutely can create mismatched results between what you see in your 3D program, and the final rigging you see in-game**. Your rig will survive auto-normalization,  but you can easily lose very crucial weights in delicate areas that really do make a difference up close. When doing custom rigging, **always rig normalized.** Most programs have an option to keep weights normalized at all times while doing your weight assigning.
+ 
 
+ 
 ### Bone Weights Per Vertex Limit
 
 Source has a hard coded limit on the number of bone weights per vertex. It is integral to the engine and can't be changed.
@@ -46,3 +48,6 @@ You can export **SMD files** with as many vertex weights as you'd like, but if y
 
  
 ### Culling of Normalized Weights With Values Under .050
+
+A well kept secret, Source Engine simply **discards any normalized weights below a value of .05**
+This has a huge impact on fine weighting, especially on high poly models where very low weight values are often utilized to keep all those vertices smoothly deforming. Many models you import will have weights below .05, even older games. It may not seem like a big deal, but it is. Depending on how much your model uses low value weights, **this issue all by itself can be severe enough to ruin deforms in very obvious ways, I assure you.** A few dropped weights here and there usually can be ignored, but if you have entire sets of edge loops using low value weights, **there is real potential for serious damage** to your deforms.
