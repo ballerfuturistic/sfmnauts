@@ -27,9 +27,11 @@ Isolate all the bones. Maintaining the order. It's easy to do this using notepad
 Then, at the top of the file, add this:
 
 `
+
 [HAVOK SKELETON DEFINITION FILE]
 
 [BONES START]
+
 `
 
 At the bottom, add the following:
@@ -62,7 +64,7 @@ Then select the skeleton text file we made earlier.
 
 From this point, you may see a set of warnings get spit out by the output log 
 
-![The bones are missing!!!](fallout-4/img/MissingBones.png)
+![The bones are missing!!!](/fallout-4/img/MissingBones.png)
 
 If so, it means that some of the bones are missing from the scene, or are misnamed. Copy the error log and put it into notepad because we can’t edit the scene with the Content Tools open, so close it, and click "yes" to save the configuration set.
 
