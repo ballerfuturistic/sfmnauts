@@ -104,7 +104,7 @@ Click File -> Open configuration set and Load the provided custom F4Animation.hk
 (Not the one included in the Fallout 4 animation kit, I’ve made my own set)
 
 Select "ConvertAnimation_X32" under Configuration set.
-![Select it](/fallout-4/img/convert32.png)
+![Select it](/fallout-4/img/convert32.PNG)
 
 now select "Merge Asset" and on the right, you will be able to browse for a file path.
 Navigate to where your actor's animations are, which is MESHES/ACTORS/*ActorName*/Animations/ Select the animation you want to convert, copy its name and then click "Open"
@@ -120,7 +120,7 @@ This is the easiest part, open up HKXPackGUI and first, and Define out skeleton,
 
 Now simply drag and drop all of your 32bit hkx animations in to the big box that says "Drag and drop files here" and hit "Convert HKX to FBX"
 
-![Almost there!](/fallout-4/img/convert32.png)
+![Almost there!](/fallout-4/img/convert32.PNG)
 
 Now all of your animations are in FBX and can be imported in to 3DS max. Make sure to set the scale factor to 1.0 under advanced when importing FBX files.
 
