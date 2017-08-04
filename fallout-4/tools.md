@@ -1,6 +1,6 @@
 **3DSMax 2015** is probably the best version to work with.
 
-**Notepad++**
+[Notepad++](https://notepad-plus-plus.org/download/v7.4.2.html)
 
 [B.A.E - Bethesda Archive Extractor](http://www.nexusmods.com/fallout4/mods/78/?)
 
