@@ -9,9 +9,9 @@
 [Custom F4Animation.hko](/fallout-4/file/F4Animation.hko)
 
 ### Table of Contents
-* [Part 1: Creating a win32 Skeleton](#animations.md#part-1-32bit-skeleton)
-* [Part 2: Converting Animations to 32bit](#animations.md#part-2-32bit-animations)
-* [Part 3: Converting 32bit animations to FBX](#animations.md#part-3-converting-hkx-animations-to-fbx)
+* [Part 1: Creating a win32 Skeleton](#animations.md#part-1:-32bit-skeleton)
+* [Part 2: Converting Animations to 32bit](#animations.md#part-2:-32bit-animations)
+* [Part 3: Converting 32bit animations to FBX](#animations.md#part-3:-converting-hkx-animations-to-fbx)
 
 ## Part 1: 32bit skeleton
 
