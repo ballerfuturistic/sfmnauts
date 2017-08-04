@@ -27,11 +27,9 @@ Isolate all the bones. Maintaining the order. It's easy to do this using notepad
 Then, at the top of the file, add this:
 
 `
-
 [HAVOK SKELETON DEFINITION FILE]
 
 [BONES START]
-
 `
 
 At the bottom, add the following:
