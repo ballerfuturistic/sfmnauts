@@ -9,11 +9,11 @@
 [Custom F4Animation.hko](/fallout-4/file/F4Animation.hko)
 
 ### Table of Contents
-* [Part 1: Creating a win32 Skeleton](animations.md#32-bit-skeleton)
+* [Part 1: Creating a win32 Skeleton](animations.md#part-1-32-bit-skeleton)
 * [Part 2: Converting Animations to 32bit](#animations.md#part-2-32bit-animations)
 * [Part 3: Converting 32bit animations to FBX](#animations.md#part-3-converting-hkx-animations-to-fbx)
 
-## 32 Bit Skeleton
+## Part 1: 32 Bit Skeleton
 
 We’ll be using HKXPackUi (located in the animation toolkit)  to convert the animations in to FBX, but in order to do that, we need a 32bit skeleton.hkx file. We do this by starting with the 64bit skeleton.
 
