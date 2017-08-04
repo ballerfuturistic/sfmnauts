@@ -80,7 +80,7 @@ Looking at the output log to reference bones that are missing, you’ll see that
 LTHIGH 
 `
 
-and rename it too
+and rename it to
 
 `
 LThigh
