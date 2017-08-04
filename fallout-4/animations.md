@@ -102,7 +102,8 @@ Now that we have no more errors about writing the skeleton, select “Write To P
 “Run Configuration” and your 32bit skeleton will be created.
 
 **Note:**
-You should save the scene with this skeleton as when importing the animations later, as the bones must be named correctly when importing animations aswell.
+You should save the scene with this skeleton as when importing the animations later, the bones must be named correctly when importing animations aswell.
+
 Protip: you can import the mesh of whatever actor your working with on top of the skeleton and it will rig to it automatically, just make sure to uncheck "import skeleton" when importing it.
 
 ## Part 2: 32bit Animations
