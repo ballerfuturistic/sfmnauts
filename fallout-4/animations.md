@@ -9,6 +9,7 @@
 
 [Custom F4Animation.hko](https://github.com/ballerfuturistic/sfmnauts/raw/master/fallout-4/file/F4Animation.zip)
 download and unzip
+[Fallout 4 Animation Kit](/fallout-4/tools.md)
 
 ### Table of Contents
 * [Part 1: Creating a win32 Skeleton](animations.md#part-1-32-bit-skeleton)
@@ -82,7 +83,7 @@ Looking at the output log to reference bones that are missing, you’ll see that
 
     LTHIGH
 
-and rename it too
+and rename it to
 
     LThigh
 
@@ -132,7 +133,7 @@ Now all of your animations are in FBX and can be imported in to 3DS max. Make su
 
 If you're importing the animations on to a skeleton already in the scene, make sure the bone names are all proper, this is gone over in part 1.
 
-Now that your animations are loading in 3DS max, you can now do whatever you want with them.
+Now that your animations are loading in 3DS max, you can do whatever you want with them.
 
 That's it! I'll be writing a guide later on getting the animations in to Source, so look out for that.
 	- Bizz
