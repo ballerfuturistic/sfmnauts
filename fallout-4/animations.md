@@ -5,7 +5,7 @@
 	Bizz - Figuring out the process for making 32bit skeletons, writing this tutorial.
 
 ##Required Files
-![Custom F4Animation.hko](/fallout-4/file/F4Animation.hko)
+[Custom F4Animation.hko](/fallout-4/file/F4Animation.hko)
 
 ### Table of Contents
 * [Part 1: Creating a win32 Skeleton](#animation.md#part-1:-32bit-skeleton)
