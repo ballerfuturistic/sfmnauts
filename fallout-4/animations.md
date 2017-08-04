@@ -6,7 +6,9 @@
 
 ##Required Files
 
-[Custom F4Animation.hko](/fallout-4/file/F4Animation.hko)
+
+[Custom F4Animation.hko](/fallout-4/file/F4Animation.zip)
+download and unzip
 
 ### Table of Contents
 * [Part 1: Creating a win32 Skeleton](animations.md#part-1-32-bit-skeleton)
@@ -39,6 +41,8 @@ Then, at the top of the file, add these two lines:
 
 At the bottom, add the following:
 	[END]
+
+[Example Feral Ghoul rig.txt](/fallout-4/file/feralghoulrig.txt)
 
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
@@ -88,6 +92,7 @@ bone.
 You can do this by going to Create>Helpers>Dummy.
 
 Make sure to link it to the root bone by dragging the dummy under the root bone in the scene explorer.
+
 
 Now that we have no more errors about writing the skeleton, select “Write To Platform” in the configuration set, and on the right, input where you want the file to save. Once that’s done, hit
 “Run Configuration” and your 32bit skeleton will be created.
