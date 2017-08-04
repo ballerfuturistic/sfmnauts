@@ -26,14 +26,17 @@ Isolate all the bones. Maintaining the order. It's easy to do this using notepad
 
 Then, at the top of the file, add this:
 
+`
 [HAVOK SKELETON DEFINITION FILE]
 
 [BONES START]
+`
 
 At the bottom, add the following:
 
+`
 [END]
-
+`
 
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
@@ -72,11 +75,15 @@ Select Tools -> "New Scene Explorer" and a list of all of the objects in the sce
 
 Looking at the output log to reference bones that are missing, you’ll see that it says “LThigh” is missing, but in the scene, you have “LTHIGH”. This is because the bone names are case sensitive, so the capitalization must match up. Just select 
 
+`
 LTHIGH 
+`
 
 and rename it too
 
+`
 LThigh
+`
 
 Make sure to do this for all misnamed bones. If after correcting all of the bones, but there are still some missing such as camera bones or animobjects, you can simply create a dummy with the name of the missing 
 bone. 
