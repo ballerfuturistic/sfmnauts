@@ -14,7 +14,7 @@ After deciding what character you want to convert (found in MESHES/ACTORS), find
 
 Drag the skeleton.hkx in to HKXPackGUI and hit HKX <=> XML
 
-![Puush button](fallout-4/img/hkxpackGUI.png)
+![Puush button](/fallout-4/img/hkxpackGUI.png)
 
 The bones have to be in a very specific order. The only way to get the order is taking the 64bit skeleton, so you must take it from the XML.
 
@@ -53,7 +53,7 @@ Create Skeletons
 
 Under Build Rig select "From File" and select Use File Order.
 
-![Build the rig from the text file we made](fallout-4/img/buildarig.png)
+![Build the rig from the text file we made](/fallout-4/img/buildarig.png)
 
 Then select the skeleton text file we made earlier.
 
@@ -68,7 +68,7 @@ The easiest way to fix the missing/misnamed bones is to open the Scene Explorer.
 In 3DSMax,
 Select Tools -> "New Scene Explorer" and a list of all of the objects in the scene will pop up.
 
-![Scene Explorer](fallout-4/img/SceneExplorer.png)
+![Scene Explorer](/fallout-4/img/SceneExplorer.png)
 
 Looking at the output log to reference bones that are missing, you’ll see that it says “LThigh” is missing, but in the scene, you have “LTHIGH”. This is because the bone names are case sensitive, so the capitalization must match up. Just select 
 
