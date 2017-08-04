@@ -5,14 +5,16 @@
 	Bizz - Figuring out the process for making 32bit skeletons, writing this tutorial.
 
 ##Required Files
-![Custom F4Animation.hko](/file/F4Animation.hko)
+
+[Custom F4Animation.hko](/fallout-4/file/F4Animation.zip)
+download and unzip
 
 ### Table of Contents
-* [Part 1: Creating a win32 Skeleton](#animation.md#part-1:-32bit-skeleton)
-* [Part 2: Converting Animations to 32bit](#animation.md#part-2:-32bit-animations)
-* [Part 3: Converting 32bit animations to FBX](#animation.md#part-3:-converting-hkx-animations-to-fbx)
+* [Part 1: Creating a win32 Skeleton](animations.md#part-1-32-bit-skeleton)
+* [Part 2: Converting Animations to 32bit](animations.md#part-2-32bit-animations)
+* [Part 3: Converting 32bit animations to FBX](animations.md#part-3-converting-hkx-animations-to-fbx)
 
-## Part 1: 32bit skeleton
+## Part 1: 32 Bit Skeleton
 
 We’ll be using HKXPackUi (located in the animation toolkit)  to convert the animations in to FBX, but in order to do that, we need a 32bit skeleton.hkx file. We do this by starting with the 64bit skeleton.
 
@@ -39,6 +41,8 @@ Then, at the top of the file, add these two lines:
 At the bottom, add the following:
 	[END]
 
+[Example Feral Ghoul rig.txt](/fallout-4/file/feralghoulrig.txt)
+
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
 Open up 3DS Max, Import a new file, and now import the skeleton.nif file for your desired actor, this is the same place we found the skeleton.hkx.
@@ -57,13 +61,13 @@ Create Skeletons
 
 Under Build Rig select "From File" and select Use File Order.
 
-![Build the rig from the text file we made](/img/buildarig.png)
+![Build the rig from the text file we made](/fallout-4/img/buildarig.png)
 
 Then select the skeleton text file we made earlier.
 
 From this point, you may see a set of warnings get spit out by the output log
 
-![The bones are missing!!!](/img/MissingBones.png)
+![The bones are missing!!!](/fallout-4/img/MissingBones.png)
 
 If so, it means that some of the bones are missing from the scene, or are misnamed. Copy the error log and put it into notepad because we can’t edit the scene with the Content Tools open, so close it, and click "yes" to save the configuration set.
 
@@ -104,7 +108,7 @@ Click File -> Open configuration set and Load the provided custom F4Animation.hk
 (Not the one included in the Fallout 4 animation kit, I’ve made my own set)
 
 Select "ConvertAnimation_X32" under Configuration set.
-![Select it](/img/convert32.png)
+![Select it](/fallout-4/img/convert32.PNG)
 
 now select "Merge Asset" and on the right, you will be able to browse for a file path.
 Navigate to where your actor's animations are, which is MESHES/ACTORS/*ActorName*/Animations/ Select the animation you want to convert, copy its name and then click "Open"
@@ -120,7 +124,7 @@ This is the easiest part, open up HKXPackGUI and first, and Define out skeleton,
 
 Now simply drag and drop all of your 32bit hkx animations in to the big box that says "Drag and drop files here" and hit "Convert HKX to FBX"
 
-![Almost there!](/img/convert32.png)
+![Almost there!](/fallout-4/img/convert32.PNG)
 
 Now all of your animations are in FBX and can be imported in to 3DS max. Make sure to set the scale factor to 1.0 under advanced when importing FBX files.
 
