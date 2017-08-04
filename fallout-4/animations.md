@@ -20,7 +20,8 @@ After deciding what character you want to convert (found in MESHES/ACTORS), find
 
 Drag the skeleton.hkx in to HKXPackGUI and hit HKX <=> XML
 
-![Puush button](/img/hkxpackGUI.png)
+![Puush button](/fallout-4/img/hkxpackGUI.png)
+
 
 The bones have to be in a very specific order. The only way to get the order is taking the 64bit skeleton, so you must take it from the XML.
 
@@ -38,7 +39,6 @@ Then, at the top of the file, add these two lines:
 At the bottom, add the following:
 	[END]
 
-
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
 Open up 3DS Max, Import a new file, and now import the skeleton.nif file for your desired actor, this is the same place we found the skeleton.hkx.
@@ -48,6 +48,7 @@ With this loaded now,
 Click Havok Content Tools along the top of 3DS max and hit “Export”. A new window will pop up
 
 Click File -> Open configuration set and Load the provided custom F4Animation.hko (found at the top of this page)
+
 (Not the one included in the Fallout 4 animation kit, I’ve made my own set)
 
 Select "ExportSceneHkx" under Configuration set.
@@ -68,18 +69,17 @@ If so, it means that some of the bones are missing from the scene, or are misnam
 
 The easiest way to fix the missing/misnamed bones is to open the Scene Explorer..
 
+
 In 3DSMax,
 Select Tools -> "New Scene Explorer" and a list of all of the objects in the scene will pop up.
 
-![Scene Explorer](/img/SceneExplorer.png)
-
 Looking at the output log to reference bones that are missing, you’ll see that it says “LThigh” is missing, but in the scene, you have “LTHIGH”. This is because the bone names are case sensitive, so the capitalization must match up. Just select
 
-**LTHIGH**
+    LTHIGH
 
 and rename it too
 
-**LThigh**
+    LThigh
 
 Make sure to do this for all misnamed bones. If after correcting all of the bones, but there are still some missing such as camera bones or animobjects, you can simply create a dummy with the name of the missing
 bone.

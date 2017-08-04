@@ -1,6 +1,7 @@
 ## Importing assets
 
-1. Install **[Niftools.](/fallout-4/tools.md)**
+1. Install [**Niftools.**](/fallout-4/tools.md)
+
 2. Once you get to the dialog which requests your extracted directories, **ensure that you select the root directy of the folder it's asking you for** -- i.e. 
 
 `D:\Porting\Fallout\BASE\`
@@ -14,3 +15,4 @@ I know, strange, right?
 After that, it's a pretty straightforward process.
 
 3. **File -> Import** and select the **.nif** you'd like to import.
+
