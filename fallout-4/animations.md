@@ -1,3 +1,5 @@
+{% video width="740", height="350" %}https://www.domain.com/video.mp4{% endvideo %}
+
 ## Credits
 	Figment - Updated NifTools tools
 	ShadeAnimator - Fallout 4 Animation Kit, original guide for importing animations in to max
