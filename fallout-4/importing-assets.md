@@ -14,8 +14,3 @@ I know, strange, right?
 After that, it's a pretty straightforward process.
 
 1. **File -&gt; Import** and select the **.nif** you'd like to import.
-
-ok
-
-
-
