@@ -1,5 +1,3 @@
-{% video width="740", height="350" %}https://www.domain.com/video.mp4{% endvideo %}
-
 ## Credits
 	Figment - Updated NifTools tools
 	ShadeAnimator - Fallout 4 Animation Kit, original guide for importing animations in to max
@@ -23,8 +21,7 @@ The bones have to be in a very specific order. The only way to get the order is 
 Look for hkaSkeleton and delete everything that isn't the bone definitions.
 Isolate all the bones. Maintaining the order. It's easy to do this using notepad++, as seen here:
 
-
-
+{% video width="640", height="480" %}/vid/isolatebones.mp4{% endvideo %}
 
 Then, at the top of the file, add this:
 
