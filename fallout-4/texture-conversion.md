@@ -1,8 +1,8 @@
 ## Credits
 
-Method: **Blueflytrap**, **Sundownsyndrome**
+    Method: **Blueflytrap**, **Sundownsyndrome**
 
-Simplification: **Kuroyasviel**
+    Simplification: **Kuroyasviel**
 
 ## Channels
 
