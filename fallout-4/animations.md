@@ -13,7 +13,7 @@
 * [Part 2: Converting Animations to 32bit](#animations.md#part-2-32bit-animations)
 * [Part 3: Converting 32bit animations to FBX](#animations.md#part-3-converting-hkx-animations-to-fbx)
 
-## Part 1 32bit skeleton
+## Part 1: 32bit skeleton
 
 We’ll be using HKXPackUi (located in the animation toolkit)  to convert the animations in to FBX, but in order to do that, we need a 32bit skeleton.hkx file. We do this by starting with the 64bit skeleton.
 
@@ -96,7 +96,7 @@ Now that we have no more errors about writing the skeleton, select “Write To P
 You should save the scene with this skeleton as when importing the animations later, as the bones must be named correctly when importing animations aswell.
 Protip: you can import the mesh of whatever actor your working with on top of the skeleton and it will rig to it automatically, just make sure to uncheck "import skeleton" when importing it.
 
-## Part 2 32bit Animations
+## Part 2: 32bit Animations
 In order to get our animations in to 3DS max, we must convert them using HKXPackUi, however, it only accepts 32bit hkx files.
 Converting the animations to 32bit is a simple yet tedious process (If anyone ever finds out how to simplify the process, please let me know.)
 
@@ -115,7 +115,7 @@ Name what you want to output the 32bit file as, if you copied the name before se
 
 now do this over and over and over and over again until you have all of your desired animations converted to 32bit. If anyone knows a better way to do this, for instance, **one that doesn't require you to do it file by file,** please let me know.
 
-## Part 3 Converting HKX animations to FBX.
+## Part 3: Converting HKX animations to FBX.
 
 This is the easiest part, open up HKXPackGUI and first, and Define out skeleton, select Browse next to the text box where it's asking for the "skeleton.hkx" and select the one you made in Part 1.
 
