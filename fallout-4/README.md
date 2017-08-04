@@ -7,3 +7,6 @@ These are the guides respective to **Fallout 4.**
 >[Importing Assets](/fallout-4/importing-assets.md)
 >
 >[Texture Conversion](/fallout-4/texture-conversion.md)
+>
+>[Animations](/fallout-4/animations.md)
+>
