@@ -1,7 +1,3 @@
 {
-    "plugins": ["expandable-chapters"]
-}
-
-{
-    "plugins": ["video-player"]
+    "plugins": ["expandable-chapters", "video-player"]
 }
