@@ -21,7 +21,7 @@ The bones have to be in a very specific order. The only way to get the order is 
 Look for hkaSkeleton and delete everything that isn't the bone definitions.
 Isolate all the bones. Maintaining the order. It's easy to do this using notepad++, as seen here:
 
-{% videoplayer id="myvideo" width="640" height="480" posterExt="png" /vid/isolatebones.mp4{% endvideoplayer %}
+
 
 
 Then, at the top of the file, add this:
