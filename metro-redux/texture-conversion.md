@@ -1,6 +1,6 @@
 ## Credits
 
-Method: **Ninja Nub**, **Kuroyasviel**
+    Method: Ninja Nub, Kuroyasviel
 
 ## Notes
 
