@@ -20,10 +20,8 @@ THIS IS **NOT** Colored Roughness \(Dark Souls 3\) or Colored Specular Roughness
 
 ## TEXTURES:
 
-**
-Typically speculars end in _spec or _s, but if for some reason you can't see the texture names, compare them. 
-Usually the Specular has a very vastly different color scheme from the Diffuse, but if not, they're brighter.
-**
+**Typically speculars end in _spec or _s, but if for some reason you can't see the texture names, compare them.**
+**Usually the Specular has a very vastly different color scheme from the Diffuse, but if not, they're brighter.**
 
 1. Put the colored specular in the **alpha** of the **normal map.**
 
