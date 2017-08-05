@@ -27,7 +27,7 @@ Usually the Specular has a very vastly different color scheme from the Diffuse, 
 
 1. Put the colored specular in the **alpha** of the **normal map.**
 
-Make an exponent out of the colored specular,   
+Make an **exponent** out of the colored specular,   
 1. Color the **green channel** by
 
 `
