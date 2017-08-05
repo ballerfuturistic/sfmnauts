@@ -1,4 +1,4 @@
-        Credit: Kuro
+       Credit: Kuroyasviel
 
 Colored Specular(Sample Files will be provided) ( https://puu.sh/x21u5.zip )
 
@@ -26,7 +26,7 @@ THIS IS **NOT** Colored Roughness (Dark Souls 3) or Colored Specular Roughness P
 **(Optional)** Make an exponent out of the colored specular, 
 1. Color the green channel by 255 255 255.
 
-2. Darken the red channel and export as tga **(Experiment with this and just find what you think looks best.)**
+2. Export as .TGA
 
 ## COMPILING:
 
@@ -40,7 +40,6 @@ Once the model is compiled, also use the VMTs in sample files available at SFMNA
 As a reminder, Diffuse VMT should have no phongboost, and should look exactly like the sample file.
 
 The Specular VMT should have phong boost/also look like the sample files, but change parameters to your liking.
-
 
 ## Final
 http://i.imgur.com/JIlDn36.png
