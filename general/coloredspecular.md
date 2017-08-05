@@ -2,7 +2,7 @@ Colored Specular(Sample Files will be provided) ( https://puu.sh/x21u5.zip )
 
 This is applicable for any game that uses colored specular.
 
-THIS IS **NOT** Colored Roughness(Dark Souls 3) or Colored Specular Roughness PBR.
+THIS IS **NOT** Colored Roughness (Dark Souls 3) or Colored Specular Roughness PBR.
 
 
 ## MODEL:
