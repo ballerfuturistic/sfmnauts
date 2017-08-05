@@ -1,3 +1,5 @@
+        Credit: Kuro
+
 Colored Specular(Sample Files will be provided) ( https://puu.sh/x21u5.zip )
 
 This is applicable for any game that uses colored specular.
@@ -22,7 +24,7 @@ THIS IS **NOT** Colored Roughness (Dark Souls 3) or Colored Specular Roughness P
 1. Put the colored specular in the alpha of the normal map
 
 **(Optional)** Make an exponent out of the colored specular, 
-1. Color the  channel by 255 255 255.
+1. Color the green channel by 255 255 255.
 
 2. Darken the red channel and export as tga **(Experiment with this and just find what you think looks best.)**
 
