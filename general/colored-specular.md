@@ -34,9 +34,9 @@ Make an exponent out of the colored specular,
    255 255 255
 ```
 
-1. **\(Optional\)** Darken the **red channel.** \(Experiment with this and just find what you think looks best.\)
+2. **\(Optional\)** Darken the **red channel.** \(Experiment with this and just find what you think looks best.\)
 
-2. Export as .TGA
+3. Export as .TGA
 
 ## COMPILING:
 
