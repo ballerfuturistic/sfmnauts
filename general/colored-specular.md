@@ -30,7 +30,9 @@ Usually the Specular has a very vastly different color scheme from the Diffuse, 
 Make an exponent out of the colored specular,   
 1. Color the **green channel** by
 
-  255 255 255
+`
+255 255 255
+`
 
 2. **\(Optional\)** Darken the **red channel.** \(Experiment with this and just find what you think looks best.\)
 
