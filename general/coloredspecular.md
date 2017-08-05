@@ -41,9 +41,9 @@ Edit the lines etc.
 ## MATERIALS:
 Once the model is compiled, also use the VMTs in sample files available at SFMNAUTS
 
-As a reminder, Diffuse VMT should have no phongboost, and should look exactly like the sample file.
+As a reminder, **Diffuse VMT** should have no phongboost, and should look exactly like the sample file.
 
-The Specular VMT should have phong boost/also look like the sample files, but change parameters to your liking.
+The **Specular VMT** should have phong boost/also look like the sample files, but change parameters to your liking.
 
 ## Final
 http://i.imgur.com/JIlDn36.png
