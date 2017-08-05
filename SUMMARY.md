@@ -1,9 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [General Tools](general-tools/README.md)
-  * [Photoshop](general-tools/photoshop.md)
-  * [NinjaRipper](general-tools/ninjaripper.md)
 * [General](general/README.md)
   * [Assigning Textures](general/assigning-textures.md)
   * [Portception/XNALara](general/portception.md)
