@@ -48,7 +48,7 @@ As a reminder, **Diffuse VMT** should have no phongboost, and should look exactl
 The **Specular VMT** should have phong boost/also look like the sample files, but change parameters to your liking.
 
 ## Final
-![Final Colored Specular](/img/finalcoloredspecular.png)
+![Final Colored Specular](/general/img/finalcoloredspecular.png)
 
 
 
