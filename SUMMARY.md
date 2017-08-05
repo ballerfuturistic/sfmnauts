@@ -5,6 +5,7 @@
   * [Assigning Textures](general/assigning-textures.md)
   * [Portception/XNALara](general/portception.md)
   * [Rigging](general/rigging.md)
+  * [Colored Specular](general/colored-specular.md)
 * [Metro Redux](metro-redux/README.md)
   * [Tools](metro-redux/tools.md)
   * [Texture Conversion](metro-redux/texture-conversion.md)
