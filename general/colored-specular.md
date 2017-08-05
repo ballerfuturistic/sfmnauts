@@ -12,7 +12,7 @@ THIS IS **NOT** Colored Roughness \(Dark Souls 3\) or Colored Specular Roughness
 
 ## MODEL:
 
-1. Import the model into 3dsmax
+1. Import the model into 3DS Max or Blender.
 
 2. Dupicate the model, the original should have the **diffuse** applied while the dupe has the **specular** applied.
 
