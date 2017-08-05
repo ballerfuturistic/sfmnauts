@@ -24,7 +24,7 @@ THIS IS **NOT** Colored Roughness \(Dark Souls 3\) or Colored Specular Roughness
 
 **Usually the Specular has a very vastly different color scheme from the Diffuse, but if not, they're brighter.**
 
-**A good example is Tera or JoJo's Bizarre Adventure: Eyes of Heaven**
+**A good example is Tera or JoJo's Bizarre Adventure: Eyes of Heaven.**
 
 1. Put the colored specular in the **alpha** of the **normal map.**
 
