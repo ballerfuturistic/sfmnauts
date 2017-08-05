@@ -1,6 +1,8 @@
        Credit: Kuroyasviel
 
-Colored Specular(Sample Files will be provided) ( https://puu.sh/x21u5.zip )
+## Colored Specular
+
+[Sample Files](https://github.com/ballerfuturistic/sfmnauts/raw/master/general/file/colored_specular_guide.zip)
 
 This is applicable for any game that uses colored specular.
 
@@ -46,7 +48,7 @@ As a reminder, **Diffuse VMT** should have no phongboost, and should look exactl
 The **Specular VMT** should have phong boost/also look like the sample files, but change parameters to your liking.
 
 ## Final
-http://i.imgur.com/JIlDn36.png
+![Final Colored Specular](/img/finalcoloredspecular.png)
 
 
 
