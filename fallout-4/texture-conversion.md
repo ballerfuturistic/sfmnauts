@@ -22,7 +22,7 @@ Flip green channel of normal map.
 
 Images &gt; Adjustments &gt; Exposure
 
-Exposure to 0.4545
+Go to Exposure and set the Gamma to 0.4545
 
 Make **3 specular** layers.
 
