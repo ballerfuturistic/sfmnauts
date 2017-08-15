@@ -7,8 +7,11 @@
 ##Required Files
 
 
+<<<<<<< HEAD
 [Custom F4Animation.hko](https://github.com/ballerfuturistic/sfmnauts/raw/master/fallout-4/file/F4Animation.zip)
 download and unzip
+=======
+>>>>>>> b6cdda51892aeccbda72a4c819f2272884ab0e8c
 
 [Fallout 4 Animation Kit](/fallout-4/tools.md)
 
@@ -46,7 +49,11 @@ Then, at the top of the file, add these two lines:
 At the bottom, add the following:
 	[END]
 
+<<<<<<< HEAD
 [Example Feral Ghoul rig.txt](https://github.com/ballerfuturistic/sfmnauts/blob/master/fallout-4/file/feralghoulrig.txt)
+=======
+
+>>>>>>> b6cdda51892aeccbda72a4c819f2272884ab0e8c
 
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
