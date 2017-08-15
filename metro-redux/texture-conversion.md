@@ -16,9 +16,9 @@ so.. **filename** and **filename\_bump**
 
 Open your **\_bump**.
 
-**Green channel** holds the Specular.
+Run the whole **\_bump** through [**NJOB**](http://charles.hollemeersch.net/njob/) then load the normal map that was generated. We do this since the **\_bump** is actually a heightmap which can be converted to a normal map.
 
-Run the whole **\_bump** through [**NJOB**](http://charles.hollemeersch.net/njob/), then load the normal map that was generated. .
+**Green channel** holds the Specular.
 
 Put the **Specular** in the **Alpha of the normal map.**
 

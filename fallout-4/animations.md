@@ -7,8 +7,6 @@
 ##Required Files
 
 
-[Custom F4Animation.hko](/fallout-4/file/F4Animation.zip)
-download and unzip
 
 ### Table of Contents
 * [Part 1: Creating a win32 Skeleton](animations.md#part-1-32-bit-skeleton)
@@ -42,7 +40,7 @@ Then, at the top of the file, add these two lines:
 At the bottom, add the following:
 	[END]
 
-[Example Feral Ghoul rig.txt](/fallout-4/file/feralghoulrig.txt)
+
 
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
@@ -82,7 +80,7 @@ Looking at the output log to reference bones that are missing, you’ll see that
 
     LTHIGH
 
-and rename it too
+and rename it to
 
     LThigh
 
@@ -98,7 +96,8 @@ Now that we have no more errors about writing the skeleton, select “Write To P
 “Run Configuration” and your 32bit skeleton will be created.
 
 **Note:**
-You should save the scene with this skeleton as when importing the animations later, as the bones must be named correctly when importing animations aswell.
+You should save the scene with this skeleton as when importing the animations later, the bones must be named correctly when importing animations aswell.
+
 Protip: you can import the mesh of whatever actor your working with on top of the skeleton and it will rig to it automatically, just make sure to uncheck "import skeleton" when importing it.
 
 ## Part 2: 32bit Animations
@@ -132,7 +131,7 @@ Now all of your animations are in FBX and can be imported in to 3DS max. Make su
 
 If you're importing the animations on to a skeleton already in the scene, make sure the bone names are all proper, this is gone over in part 1.
 
-Now that your animations are loading in 3DS max, you can now do whatever you want with them.
+Now that your animations are loading in 3DS max, you can do whatever you want with them.
 
 That's it! I'll be writing a guide later on getting the animations in to Source, so look out for that.
 	- Bizz

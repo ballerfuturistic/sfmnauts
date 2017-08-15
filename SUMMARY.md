@@ -1,11 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [General Tools](general-tools/README.md)
-  * [Photoshop](general-tools/photoshop.md)
-  * [NinjaRipper](general-tools/ninjaripper.md)
 * [General](general/README.md)
   * [Assigning Textures](general/assigning-textures.md)
+  * [Colored Specular](general/colored-specular.md)
   * [Portception/XNALara](general/portception.md)
   * [Rigging](general/rigging.md)
 * [Metro Redux](metro-redux/README.md)
