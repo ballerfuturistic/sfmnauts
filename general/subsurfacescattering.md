@@ -17,7 +17,7 @@ You now have a blank document
 
 Select the gradient tool and reproduce this gradient as much as possible
 
-![Sorry for small image](/general/img/sss_gradient.png)
+![Sorry for small image](/general/img\sss_gradient.PNG)
 
 Trace the gradient from left to right on the blank canvas
 
