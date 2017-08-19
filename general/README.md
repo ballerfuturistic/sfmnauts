@@ -2,7 +2,6 @@ General information regarding all aspects of porting and utilization of 3D progr
 
 **Currently covers:**
 
-
 > [Assigning Textures](/general/assigning-textures.md)
 >
 > [Colored Specular](/general/colored-specular.md)
@@ -10,3 +9,8 @@ General information regarding all aspects of porting and utilization of 3D progr
 > [Portception/XNALara](/general/portception.md)
 >
 > [Rigging](/general/rigging.md)
+>
+> [HWM](/general/hwm.md)
+
+
+
