@@ -6,6 +6,7 @@
   * [Colored Specular](general/colored-specular.md)
   * [Portception/XNALara](general/portception.md)
   * [Rigging](general/rigging.md)
+  * [HWM](general/hwm.md)
 * [Metro Redux](metro-redux/README.md)
   * [Tools](metro-redux/tools.md)
   * [Texture Conversion](metro-redux/texture-conversion.md)
