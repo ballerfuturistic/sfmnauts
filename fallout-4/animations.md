@@ -7,8 +7,10 @@
 ##Required Files
 
 
+
 [Custom F4Animation.hko](https://github.com/ballerfuturistic/sfmnauts/raw/master/fallout-4/file/F4Animation.zip)
 download and unzip
+=======
 
 [Fallout 4 Animation Kit](/fallout-4/tools.md)
 
@@ -47,6 +49,8 @@ At the bottom, add the following:
 	[END]
 
 [Example Feral Ghoul rig.txt](https://github.com/ballerfuturistic/sfmnauts/blob/master/fallout-4/file/feralghoulrig.txt)
+=======
+
 
 Once you've isolated all the bones, you can save the file as skeleton.txt, or whatever other name you want to give it.
 
@@ -81,6 +85,8 @@ The easiest way to fix the missing/misnamed bones is to open the Scene Explorer.
 
 In 3DSMax,
 Select Tools -> "New Scene Explorer" and a list of all of the objects in the scene will pop up.
+
+![Scene Explorer](/fallout-4/img/SceneExplorer.PNG)
 
 Looking at the output log to reference bones that are missing, you’ll see that it says “LThigh” is missing, but in the scene, you have “LTHIGH”. This is because the bone names are case sensitive, so the capitalization must match up. Just select
 
@@ -131,7 +137,7 @@ This is the easiest part, open up HKXPackGUI and first, and Define out skeleton,
 
 Now simply drag and drop all of your 32bit hkx animations in to the big box that says "Drag and drop files here" and hit "Convert HKX to FBX"
 
-![Almost there!](/fallout-4/img/convert32.PNG)
+![Almost there!](/fallout-4/img/final.PNG)
 
 Now all of your animations are in FBX and can be imported in to 3DS max. Make sure to set the scale factor to 1.0 under advanced when importing FBX files.
 
